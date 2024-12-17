@@ -36,7 +36,7 @@
 ---
 
 ## **Class Diagram**
-![Class Diagram](./images/server_structure.png)
+![ClassDiagram](./ClassDiagram.png)
 
 ---
 
